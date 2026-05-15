@@ -25,8 +25,8 @@ python --version
 
 ### 📦 1. Clone the Repository
 ```
-git clone https://github.com/Mahita07/hasgeek-agentic-workshop-blr.git
-cd hasgeek-agentic-workshop-blr
+https://github.com/iam-swe/devday-multi-agentic-systems-participants.git
+cd devday-multi-agentic-systems-participants
 ```
 
 ### 🚀 2. Install uv (Fast Python package manager)
